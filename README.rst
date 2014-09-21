@@ -43,6 +43,6 @@ At a glance
 Installation
 ------------
 
-.. code-block:: console
+.. code-block:: bash
 
    $ pip install fabric-verbose
